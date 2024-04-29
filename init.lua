@@ -296,6 +296,10 @@ require('lazy').setup({
     end,
   },
 
+  {
+    'ThePrimeagen/vim-be-good', -- Primeagen vim motions game
+  },
+
   -- NOTE: Plugins can specify dependencies.
   --
   -- The dependencies are proper plugin specifications as well - anything
